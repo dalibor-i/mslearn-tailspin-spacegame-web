@@ -6,8 +6,8 @@
 trigger:
 - master
 
-pool:
-  vmImage: 'Fastlane'
+pool: Fastlane
+  vmImage: 'windows-latest'
 
 variables:
   solution: '**/*.sln'
