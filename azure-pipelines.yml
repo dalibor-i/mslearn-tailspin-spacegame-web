@@ -6,7 +6,7 @@
 trigger:
 - master
 
-pool: 'Fastlane'
+pool:Fastlane 
   vmImage: 'windows-latest'
 
 variables:
